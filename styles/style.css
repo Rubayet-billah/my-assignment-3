@@ -16,3 +16,7 @@
     height: 100%;
     text-shadow: 2px 2px 5px black;
 }
+#badge{
+    width: 40px;
+    height: 40px;
+}
